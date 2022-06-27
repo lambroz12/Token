@@ -17,6 +17,7 @@
   Pancakeswap:
   -	[CAKE Tokenomics](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)
   -	[CAKE Tokenomics update](https://v2litepaper.pancakeswap.finance/)
+  -	[Visual map](https://1397868517-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FTzGQMFtQxQq5eCHq0wiD%2Ftokenomics-chart-0624.png?alt=media&token=47c8b80a-832a-45cb-b003-3fe181dae6c4)
 
 
 
