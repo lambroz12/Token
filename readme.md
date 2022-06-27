@@ -11,7 +11,7 @@
 * https://consensys.net/blog/cryptoeconomic-research/tokenomics-research-september-2021/
 
   Uniswap:
-  - [Introducing UNI] (https://uniswap.org/blog/uni?utm_campaign=Metamask%20Insitutional&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--Idr_1tnyQrofyOZR73QNdUjvGiwK5E8Fw0jrjCfmsdtiJKqLLAmpFU9fEJHBxrQVG-s_n)
+  - [Introducing UNI](https://uniswap.org/blog/uni?utm_campaign=Metamask%20Insitutional&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--Idr_1tnyQrofyOZR73QNdUjvGiwK5E8Fw0jrjCfmsdtiJKqLLAmpFU9fEJHBxrQVG-s_n)
   - https://insights.glassnode.com/uni-token-is-uniswap-really-decentralized/
   
   Pancakeswap:
