@@ -12,11 +12,11 @@
 
   Uniswap:
   - [Introducing UNI](https://uniswap.org/blog/uni?utm_campaign=Metamask%20Insitutional&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--Idr_1tnyQrofyOZR73QNdUjvGiwK5E8Fw0jrjCfmsdtiJKqLLAmpFU9fEJHBxrQVG-s_n)
-  - https://insights.glassnode.com/uni-token-is-uniswap-really-decentralized/
+  - [Is UNI really decentralized?](https://insights.glassnode.com/uni-token-is-uniswap-really-decentralized/)
   
   Pancakeswap:
-  -	https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics
-  -	https://v2litepaper.pancakeswap.finance/
+  -	[CAKE Tokenomics](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)
+  -	[CAKE Tokenomics update](https://v2litepaper.pancakeswap.finance/)
 
 
 
