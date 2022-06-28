@@ -26,6 +26,7 @@
 
 **Research focused initiatives where useful information can be found:**
 - [Consensys](https://consensys.net/search/)
+- [Medium](https://medium.com)
 
 
 
