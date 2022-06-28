@@ -30,7 +30,7 @@
 
 **Viable Token Launch Options**
    Liquidity Balancer Pools:
-  - [Liquidity Bootstrapping pools](https://docs.balancer.fi/products/balancer-pools/liquidity-bootstrapping-pools-lbps)
+  - [Liquidity bootstrapping pools](https://docs.balancer.fi/products/balancer-pools/liquidity-bootstrapping-pools-lbps)
   - [A new paradigm for token distribution](https://medium.com/balancer-protocol/a-new-paradigm-for-token-distribution-c82de13626bb)
   - [Building liquidity in token distribution](https://medium.com/balancer-protocol/building-liquidity-into-token-distribution-a49d4286e0d4)
 
